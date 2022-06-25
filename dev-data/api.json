@@ -9,7 +9,84 @@
     "region": {
       "en": "Mediterranean",
       "tr": "Akdeniz"
-    }
+    },
+    "districts": [
+      {
+        "name": "Aladağ",
+        "population": 15855,
+        "area": 1340
+      },
+      {
+        "name": "Ceyhan",
+        "population": 159955,
+        "area": 1426
+      },
+      {
+        "name": "Çukurova",
+        "population": 389319,
+        "area": 250
+      },
+      {
+        "name": "Feke",
+        "population": 16072,
+        "area": 1218
+      },
+      {
+        "name": "İmamoğlu",
+        "population": 27399,
+        "area": 445
+      },
+      {
+        "name": "Karaisalı",
+        "population": 21967,
+        "area": 1165
+      },
+      {
+        "name": "Karataş",
+        "population": 23321,
+        "area": 862
+      },
+      {
+        "name": "Kozan",
+        "population": 132320,
+        "area": 1903
+      },
+      {
+        "name": "Pozantı",
+        "population": 20005,
+        "area": 899
+      },
+      {
+        "name": "Saimbeyli",
+        "population": 14030,
+        "area": 989
+      },
+      {
+        "name": "Sarıçam",
+        "population": 208227,
+        "area": 770
+      },
+      {
+        "name": "Seyhan",
+        "population": 792536,
+        "area": 1785
+      },
+      {
+        "name": "Tufanbeyli",
+        "population": 16660,
+        "area": 851
+      },
+      {
+        "name": "Yumurtalık",
+        "population": 18653,
+        "area": 447
+      },
+      {
+        "name": "Yüreğir",
+        "population": 407054,
+        "area": 835
+      }
+    ]
   },
   {
     "id": 2,
@@ -21,7 +98,45 @@
     "region": {
       "en": "Southeastern Anatolia",
       "tr": "Güneydoğu Anadolu"
-    }
+    },
+    "districts": [
+      {
+        "name": "Besni",
+        "population": 77207
+      },
+      {
+        "name": "Çelikhan",
+        "population": 15294
+      },
+      {
+        "name": "Gerger",
+        "population": 16416
+      },
+      {
+        "name": "Gölbaşı",
+        "population": 50150
+      },
+      {
+        "name": "Kahta",
+        "population": 127534
+      },
+      {
+        "name": "Merkez",
+        "population": 312207
+      },
+      {
+        "name": "Samsat",
+        "population": 7313
+      },
+      {
+        "name": "Sincik",
+        "population": 16341
+      },
+      {
+        "name": "Tut",
+        "population": 9686
+      }
+    ]
   },
   {
     "id": 3,
@@ -33,7 +148,81 @@
     "region": {
       "en": "Aegean",
       "tr": "Ege"
-    }
+    },
+    "districts": [
+      {
+        "name": "Başmakçı",
+        "population": 9536
+      },
+      {
+        "name": "Bayat",
+        "population": 7687
+      },
+      {
+        "name": "Boldavin",
+        "population": 45944
+      },
+      {
+        "name": "Çay",
+        "population": 30777
+      },
+      {
+        "name": "Çobanlar",
+        "population": 14131
+      },
+      {
+        "name": "Dazkırı",
+        "population": 11364
+      },
+      {
+        "name": "Dinar",
+        "population": 47378
+      },
+      {
+        "name": "Emirdağ",
+        "population": 42327
+      },
+      {
+        "name": "Evciler",
+        "population": 7183
+      },
+      {
+        "name": "Hocalar",
+        "population": 9035
+      },
+      {
+        "name": "İhsaniye",
+        "population": 27455
+      },
+      {
+        "name": "İscehisar",
+        "population": 24999
+      },
+      {
+        "name": "Kızılören",
+        "population": 2161
+      },
+      {
+        "name": "Merkez",
+        "population": 319574
+      },
+      {
+        "name": "Sandıklı",
+        "population": 55210
+      },
+      {
+        "name": "Sinanpaşa",
+        "population": 38830
+      },
+      {
+        "name": "Şuhut",
+        "population": 36309
+      },
+      {
+        "name": "Sultandağlı",
+        "population": 14279
+      }
+    ]
   },
   {
     "id": 4,
@@ -45,7 +234,41 @@
     "region": {
       "en": "Eastern Anatolia",
       "tr": "Doğu Anadolu"
-    }
+    },
+    "districts": [
+      {
+        "name": "Diyadin",
+        "population": 40286
+      },
+      {
+        "name": "Doğubayazıt",
+        "population": 118643
+      },
+      {
+        "name": "Eleşkirt",
+        "population": 31545
+      },
+      {
+        "name": "Hamur",
+        "population": 17106
+      },
+      {
+        "name": "Merkez",
+        "population": 150335
+      },
+      {
+        "name": "Patnos",
+        "population": 118481
+      },
+      {
+        "name": "Taşlıçay",
+        "population": 19321
+      },
+      {
+        "name": "Tutak",
+        "population": 28927
+      }
+    ]
   },
   {
     "id": 5,
@@ -57,7 +280,37 @@
     "region": {
       "en": "Black Sea",
       "tr": "Karadeniz"
-    }
+    },
+    "districts": [
+      {
+        "name": "Göynücek",
+        "population": 10291
+      },
+      {
+        "name": "Gümüşhacıköy",
+        "population": 22179
+      },
+      {
+        "name": "Hamamözü",
+        "population": 3565
+      },
+      {
+        "name": "Merkez",
+        "population": 147380
+      },
+      {
+        "name": "Merzifon",
+        "population": 74727
+      },
+      {
+        "name": "Suluova",
+        "population": 47066
+      },
+      {
+        "name": "Taşova",
+        "population": 30123
+      }
+    ]
   },
   {
     "id": 6,
@@ -69,7 +322,109 @@
     "region": {
       "en": "Central Anatolia",
       "tr": "İç Anadolu"
-    }
+    },
+    "districts": [
+      {
+        "name": "Akyurt",
+        "population": 38588
+      },
+      {
+        "name": "Altındağ",
+        "population": 407675
+      },
+      {
+        "name": "Ayaş",
+        "population": 13093
+      },
+      {
+        "name": "Bala",
+        "population": 22966
+      },
+      {
+        "name": "Beypazarı",
+        "population": 48393
+      },
+      {
+        "name": "Çamlıdere",
+        "population": 8350
+      },
+      {
+        "name": "Çankaya",
+        "population": 949265
+      },
+      {
+        "name": "Çubuk",
+        "population": 91363
+      },
+      {
+        "name": "Elmadağ",
+        "population": 44236
+      },
+      {
+        "name": "Etimesgut",
+        "population": 606472
+      },
+      {
+        "name": "Evren",
+        "population": 2965
+      },
+      {
+        "name": "Gölbaşı",
+        "population": 142961
+      },
+      {
+        "name": "Güdül",
+        "population": 8155
+      },
+      {
+        "name": "Haymana",
+        "population": 27298
+      },
+      {
+        "name": "Kahramankazan",
+        "population": 57913
+      },
+      {
+        "name": "Kalecik",
+        "population": 12502
+      },
+      {
+        "name": "Keçiören",
+        "population": 942884
+      },
+      {
+        "name": "Kızılcahamam",
+        "population": 26968
+      },
+      {
+        "name": "Mamak",
+        "population": 682420
+      },
+      {
+        "name": "Nallıhan",
+        "population": 26961
+      },
+      {
+        "name": "Polatlı",
+        "population": 127526
+      },
+      {
+        "name": "Pursaklar",
+        "population": 159676
+      },
+      {
+        "name": "Şereflikoçhisar",
+        "population": 33475
+      },
+      {
+        "name": "Sincan",
+        "population": 561411
+      },
+      {
+        "name": "Yenimahalle",
+        "population": 703809
+      }
+    ]
   },
   {
     "id": 7,
@@ -81,7 +436,8 @@
     "region": {
       "en": "Mediterranean",
       "tr": "Akdeniz"
-    }
+    },
+    "districts": []
   },
   {
     "id": 8,
@@ -93,7 +449,8 @@
     "region": {
       "en": "Black Sea",
       "tr": "Karadeniz"
-    }
+    },
+    "districts": []
   },
   {
     "id": 9,
@@ -105,7 +462,8 @@
     "region": {
       "en": "Aegean",
       "tr": "Ege"
-    }
+    },
+    "districts": []
   },
   {
     "id": 10,
@@ -117,7 +475,8 @@
     "region": {
       "en": "Marmara",
       "tr": "Marmara"
-    }
+    },
+    "districts": []
   },
   {
     "id": 11,
@@ -129,7 +488,8 @@
     "region": {
       "en": "Marmara",
       "tr": "Marmara"
-    }
+    },
+    "districts": []
   },
   {
     "id": 12,
@@ -141,7 +501,8 @@
     "region": {
       "en": "Eastern Anatolia",
       "tr": "Doğu Anadolu"
-    }
+    },
+    "districts": []
   },
   {
     "id": 13,
@@ -153,7 +514,8 @@
     "region": {
       "en": "Eastern Anatolia",
       "tr": "Doğu Anadolu"
-    }
+    },
+    "districts": []
   },
   {
     "id": 14,
@@ -165,7 +527,8 @@
     "region": {
       "en": "Black Sea",
       "tr": "Karadeniz"
-    }
+    },
+    "districts": []
   },
   {
     "id": 15,
@@ -177,7 +540,8 @@
     "region": {
       "en": "Mediterranean",
       "tr": "Akdeniz"
-    }
+    },
+    "districts": []
   },
   {
     "id": 16,
@@ -189,7 +553,8 @@
     "region": {
       "en": "Marmara",
       "tr": "Marmara"
-    }
+    },
+    "districts": []
   },
   {
     "id": 17,
@@ -201,7 +566,8 @@
     "region": {
       "en": "Marmara",
       "tr": "Marmara"
-    }
+    },
+    "districts": []
   },
   {
     "id": 18,
@@ -213,7 +579,8 @@
     "region": {
       "en": "Marmara",
       "tr": "Marmara"
-    }
+    },
+    "districts": []
   },
   {
     "id": 19,
@@ -225,7 +592,8 @@
     "region": {
       "en": "Black Sea",
       "tr": "Karadeniz"
-    }
+    },
+    "districts": []
   },
   {
     "id": 20,
@@ -237,7 +605,8 @@
     "region": {
       "en": "Aegean",
       "tr": "Ege"
-    }
+    },
+    "districts": []
   },
   {
     "id": 21,
@@ -249,7 +618,8 @@
     "region": {
       "en": "Southeastern Anatolia",
       "tr": "Güneydoğu Anadolu"
-    }
+    },
+    "districts": []
   },
   {
     "id": 22,
@@ -261,7 +631,8 @@
     "region": {
       "en": "Marmara",
       "tr": "Marmara"
-    }
+    },
+    "districts": []
   },
   {
     "id": 23,
@@ -273,7 +644,8 @@
     "region": {
       "en": "Eastern Anatolia",
       "tr": "Doğu Anadolu"
-    }
+    },
+    "districts": []
   },
   {
     "id": 24,
@@ -285,7 +657,8 @@
     "region": {
       "en": "Eastern Anatolia",
       "tr": "Doğu Anadolu"
-    }
+    },
+    "districts": []
   },
   {
     "id": 25,
@@ -297,7 +670,8 @@
     "region": {
       "en": "Eastern Anatolia",
       "tr": "Doğu Anadolu"
-    }
+    },
+    "districts": []
   },
   {
     "id": 26,
@@ -309,7 +683,8 @@
     "region": {
       "en": "Central Anatolia",
       "tr": "İç Anadolu"
-    }
+    },
+    "districts": []
   },
   {
     "id": 27,
@@ -321,7 +696,8 @@
     "region": {
       "en": "Southeastern Anatolia",
       "tr": "Güneydoğu Anadolu"
-    }
+    },
+    "districts": []
   },
   {
     "id": 28,
@@ -333,7 +709,8 @@
     "region": {
       "en": "Black Sea",
       "tr": "Karadeniz"
-    }
+    },
+    "districts": []
   },
   {
     "id": 29,
@@ -345,7 +722,8 @@
     "region": {
       "en": "Black Sea",
       "tr": "Karadeniz"
-    }
+    },
+    "districts": []
   },
   {
     "id": 30,
@@ -357,7 +735,8 @@
     "region": {
       "en": "Southeastern Anatolia",
       "tr": "Güneydoğu Anadolu"
-    }
+    },
+    "districts": []
   },
   {
     "id": 31,
@@ -369,7 +748,8 @@
     "region": {
       "en": "Mediterranean",
       "tr": "Akdeniz"
-    }
+    },
+    "districts": []
   },
   {
     "id": 32,
@@ -381,7 +761,8 @@
     "region": {
       "en": "Mediterranean",
       "tr": "Akdeniz"
-    }
+    },
+    "districts": []
   },
   {
     "id": 33,
@@ -393,7 +774,8 @@
     "region": {
       "en": "Mediterranean",
       "tr": "Akdeniz"
-    }
+    },
+    "districts": []
   },
   {
     "id": 34,
@@ -405,7 +787,8 @@
     "region": {
       "en": "Marmara",
       "tr": "Marmara"
-    }
+    },
+    "districts": []
   },
   {
     "id": 35,
@@ -417,7 +800,8 @@
     "region": {
       "en": "Aegean",
       "tr": "Ege"
-    }
+    },
+    "districts": []
   },
   {
     "id": 36,
@@ -429,7 +813,8 @@
     "region": {
       "en": "Eastern Anatolia",
       "tr": "Doğu Anadolu"
-    }
+    },
+    "districts": []
   },
   {
     "id": 37,
@@ -441,7 +826,8 @@
     "region": {
       "en": "Black Sea",
       "tr": "Karadeniz"
-    }
+    },
+    "districts": []
   },
   {
     "id": 38,
@@ -453,7 +839,8 @@
     "region": {
       "en": "Central Anatolia",
       "tr": "İç Anadolu"
-    }
+    },
+    "districts": []
   },
   {
     "id": 39,
@@ -465,7 +852,8 @@
     "region": {
       "en": "Marmara",
       "tr": "Marmara"
-    }
+    },
+    "districts": []
   },
   {
     "id": 40,
@@ -477,7 +865,8 @@
     "region": {
       "en": "Central Anatolia",
       "tr": "İç Anadolu"
-    }
+    },
+    "districts": []
   },
   {
     "id": 41,
@@ -489,7 +878,8 @@
     "region": {
       "en": "Marmara",
       "tr": "Marmara"
-    }
+    },
+    "districts": []
   },
   {
     "id": 42,
@@ -501,7 +891,8 @@
     "region": {
       "en": "Central Anatolia",
       "tr": "İç Anadolu"
-    }
+    },
+    "districts": []
   },
   {
     "id": 43,
@@ -513,7 +904,8 @@
     "region": {
       "en": "Aegean",
       "tr": "Ege"
-    }
+    },
+    "districts": []
   },
   {
     "id": 44,
@@ -525,7 +917,8 @@
     "region": {
       "en": "Eastern Anatolia",
       "tr": "Doğu Anadolu"
-    }
+    },
+    "districts": []
   },
   {
     "id": 45,
@@ -537,7 +930,8 @@
     "region": {
       "en": "Aegean",
       "tr": "Ege"
-    }
+    },
+    "districts": []
   },
   {
     "id": 46,
@@ -549,7 +943,8 @@
     "region": {
       "en": "Mediterranean",
       "tr": "Akdeniz"
-    }
+    },
+    "districts": []
   },
   {
     "id": 47,
@@ -561,7 +956,8 @@
     "region": {
       "en": "Southeastern Anatolia",
       "tr": "Güneydoğu Anadolu"
-    }
+    },
+    "districts": []
   },
   {
     "id": 48,
@@ -573,7 +969,8 @@
     "region": {
       "en": "Aegean",
       "tr": "Ege"
-    }
+    },
+    "districts": []
   },
   {
     "id": 49,
@@ -585,7 +982,8 @@
     "region": {
       "en": "Eastern Anatolia",
       "tr": "Doğu Anadolu"
-    }
+    },
+    "districts": []
   },
   {
     "id": 50,
@@ -597,7 +995,8 @@
     "region": {
       "en": "Central Anatolia",
       "tr": "İç Anadolu"
-    }
+    },
+    "districts": []
   },
   {
     "id": 51,
@@ -609,7 +1008,8 @@
     "region": {
       "en": "Central Anatolia",
       "tr": "İç Anadolu"
-    }
+    },
+    "districts": []
   },
   {
     "id": 52,
@@ -621,7 +1021,8 @@
     "region": {
       "en": "Black Sea",
       "tr": "Karadeniz"
-    }
+    },
+    "districts": []
   },
   {
     "id": 53,
@@ -633,7 +1034,8 @@
     "region": {
       "en": "Black Sea",
       "tr": "Karadeniz"
-    }
+    },
+    "districts": []
   },
   {
     "id": 54,
@@ -645,7 +1047,8 @@
     "region": {
       "en": "Marmara",
       "tr": "Marmara"
-    }
+    },
+    "districts": []
   },
   {
     "id": 55,
@@ -657,7 +1060,8 @@
     "region": {
       "en": "Black Sea",
       "tr": "Karadeniz"
-    }
+    },
+    "districts": []
   },
   {
     "id": 56,
@@ -669,7 +1073,8 @@
     "region": {
       "en": "Southeastern Anatolia",
       "tr": "Güneydoğu Anadolu"
-    }
+    },
+    "districts": []
   },
   {
     "id": 57,
@@ -681,7 +1086,8 @@
     "region": {
       "en": "Black Sea",
       "tr": "Karadeniz"
-    }
+    },
+    "districts": []
   },
   {
     "id": 58,
@@ -693,7 +1099,8 @@
     "region": {
       "en": "Central Anatolia",
       "tr": "İç Anadolu"
-    }
+    },
+    "districts": []
   },
   {
     "id": 59,
@@ -705,7 +1112,8 @@
     "region": {
       "en": "Marmara",
       "tr": "Marmara"
-    }
+    },
+    "districts": []
   },
   {
     "id": 60,
@@ -717,7 +1125,8 @@
     "region": {
       "en": "Black Sea",
       "tr": "Karadeniz"
-    }
+    },
+    "districts": []
   },
   {
     "id": 61,
@@ -729,7 +1138,8 @@
     "region": {
       "en": "Black Sea",
       "tr": "Karadeniz"
-    }
+    },
+    "districts": []
   },
   {
     "id": 62,
@@ -741,7 +1151,8 @@
     "region": {
       "en": "Eastern Anatolia",
       "tr": "Doğu Anadolu"
-    }
+    },
+    "districts": []
   },
   {
     "id": 63,
@@ -753,7 +1164,8 @@
     "region": {
       "en": "Southeastern Anatolia",
       "tr": "Güneydoğu Anadolu"
-    }
+    },
+    "districts": []
   },
   {
     "id": 64,
@@ -765,7 +1177,8 @@
     "region": {
       "en": "Aegean",
       "tr": "Ege"
-    }
+    },
+    "districts": []
   },
   {
     "id": 65,
@@ -777,7 +1190,8 @@
     "region": {
       "en": "Eastern Anatolia",
       "tr": "Doğu Anadolu"
-    }
+    },
+    "districts": []
   },
   {
     "id": 66,
@@ -789,7 +1203,8 @@
     "region": {
       "en": "Central Anatolia",
       "tr": "İç Anadolu"
-    }
+    },
+    "districts": []
   },
   {
     "id": 67,
@@ -801,7 +1216,8 @@
     "region": {
       "en": "Black Sea",
       "tr": "Karadeniz"
-    }
+    },
+    "districts": []
   },
   {
     "id": 68,
@@ -813,7 +1229,8 @@
     "region": {
       "en": "Central Anatolia",
       "tr": "İç Anadolu"
-    }
+    },
+    "districts": []
   },
   {
     "id": 69,
@@ -825,7 +1242,8 @@
     "region": {
       "en": "Black Sea",
       "tr": "Karadeniz"
-    }
+    },
+    "districts": []
   },
   {
     "id": 70,
@@ -837,7 +1255,8 @@
     "region": {
       "en": "Central Anatolia",
       "tr": "İç Anadolu"
-    }
+    },
+    "districts": []
   },
   {
     "id": 71,
@@ -849,7 +1268,8 @@
     "region": {
       "en": "Central Anatolia",
       "tr": "İç Anadolu"
-    }
+    },
+    "districts": []
   },
   {
     "id": 72,
@@ -861,7 +1281,8 @@
     "region": {
       "en": "Southeastern Anatolia",
       "tr": "Güneydoğu Anadolu"
-    }
+    },
+    "districts": []
   },
   {
     "id": 73,
@@ -873,7 +1294,8 @@
     "region": {
       "en": "Southeastern Anatolia",
       "tr": "Güneydoğu Anadolu"
-    }
+    },
+    "districts": []
   },
   {
     "id": 74,
@@ -885,7 +1307,8 @@
     "region": {
       "en": "North Sea",
       "tr": "Karadeniz"
-    }
+    },
+    "districts": []
   },
   {
     "id": 75,
@@ -897,7 +1320,8 @@
     "region": {
       "en": "Eastern Anatolia",
       "tr": "Doğu Anadolu"
-    }
+    },
+    "districts": []
   },
   {
     "id": 76,
@@ -909,7 +1333,8 @@
     "region": {
       "en": "Eastern Anatolia",
       "tr": "Doğu Anadolu"
-    }
+    },
+    "districts": []
   },
   {
     "id": 77,
@@ -921,7 +1346,8 @@
     "region": {
       "en": "Marmara",
       "tr": "Marmara"
-    }
+    },
+    "districts": []
   },
   {
     "id": 78,
@@ -933,7 +1359,8 @@
     "region": {
       "en": "Black Sea",
       "tr": "Karadeniz"
-    }
+    },
+    "districts": []
   },
   {
     "id": 79,
@@ -945,7 +1372,8 @@
     "region": {
       "en": "Southeastern Anatolia",
       "tr": "Güneydoğu Anadolu"
-    }
+    },
+    "districts": []
   },
   {
     "id": 80,
@@ -957,7 +1385,8 @@
     "region": {
       "en": "Mediterranean",
       "tr": "Akdeniz"
-    }
+    },
+    "districts": []
   },
   {
     "id": 81,
@@ -969,6 +1398,7 @@
     "region": {
       "en": "Black Sea",
       "tr": "Karadeniz"
-    }
+    },
+    "districts": []
   }
 ]
