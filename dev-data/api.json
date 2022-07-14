@@ -815,7 +815,40 @@
       "en": "Eastern Anatolia",
       "tr": "Doğu Anadolu"
     },
-    "districts": []
+    "districts": [
+      {
+        "name": "Adaklı",
+        "population": 8243
+      },
+      {
+        "name": "Genç",
+        "population": 33929
+      },
+      {
+        "name": "Karlıova",
+        "population": 28309
+      },
+      {
+        "name": "Kiğı",
+        "population": 4801
+      },
+      {
+        "name": "Merkez",
+        "population": 168953
+      },
+      {
+        "name": "Solhan",
+        "population": 33973
+      },
+      {
+        "name": "Yayladere",
+        "population": 2052
+      },
+      {
+        "name": "Yedisu",
+        "population": 2852
+      }
+    ]
   },
   {
     "id": 13,
@@ -828,7 +861,36 @@
       "en": "Eastern Anatolia",
       "tr": "Doğu Anadolu"
     },
-    "districts": []
+    "districts": [
+      {
+        "name": "Adilcevaz",
+        "population": 30123
+      },
+      {
+        "name": "Ahlat",
+        "population": 42131
+      },
+      {
+        "name": "Güroymak",
+        "population": 48536
+      },
+      {
+        "name": "Hizan",
+        "population": 32586
+      },
+      {
+        "name": "Merkez",
+        "population": 71077
+      },
+      {
+        "name": "Mutki",
+        "population": 30940
+      },
+      {
+        "name": "Tatvan",
+        "population": 96884
+      }
+    ]
   },
   {
     "id": 14,
@@ -841,7 +903,44 @@
       "en": "Black Sea",
       "tr": "Karadeniz"
     },
-    "districts": []
+    "districts": [
+      {
+        "name": "Dörtdivan",
+        "population": 6540
+      },
+      {
+        "name": "Gerede",
+        "population": 33833
+      },
+      {
+        "name": "Göynük",
+        "population": 14679
+      },
+      {
+        "name": "Kıbrıscık",
+        "population": 3114
+      },
+      {
+        "name": "Mengen",
+        "population": 13679
+      },
+      {
+        "name": "Merkez",
+        "population": 217935
+      },
+      {
+        "name": "Mudurnu",
+        "population": 18629
+      },
+      {
+        "name": "Seben",
+        "population": 4767
+      },
+      {
+        "name": "Yeniçağa",
+        "population": 6838
+      }
+    ]
   },
   {
     "id": 15,
@@ -854,7 +953,52 @@
       "en": "Mediterranean",
       "tr": "Akdeniz"
     },
-    "districts": []
+    "districts": [
+      {
+        "name": "Ağlasun",
+        "population": 7652
+      },
+      {
+        "name": "Altınyayla",
+        "population": 5335
+      },
+      {
+        "name": "Bucak",
+        "population": 66156
+      },
+      {
+        "name": "Çavdır",
+        "population": 12599
+      },
+      {
+        "name": "Çeltikçi",
+        "population": 4936
+      },
+      {
+        "name": "Gölhisar",
+        "population": 23064
+      },
+      {
+        "name": "Karamanlı",
+        "population": 8268
+      },
+      {
+        "name": "Kemer",
+        "population": 3000
+      },
+      {
+        "name": "Merkez",
+        "population": 117189
+      },
+      {
+        "name": "Tefenni",
+        "population": 10744
+      },
+      {
+        "name": "Yeşilova",
+        "population": 14773
+      }
+    ]
   },
   {
     "id": 16,
@@ -867,7 +1011,72 @@
       "en": "Marmara",
       "tr": "Marmara"
     },
-    "districts": []
+    "districts": [
+      {
+        "name": "Büyükorhan",
+        "population": 9321
+      },
+      {
+        "name": "Gemlik",
+        "population": 118037
+      },
+      {
+        "name": "Gürsu",
+        "population": 99278
+      },
+      {
+        "name": "Harmancık",
+        "population": 6016
+      },
+      {
+        "name": "İnegöl",
+        "population": 286848
+      },
+      {
+        "name": "İznik",
+        "population": 44050
+      },
+      {
+        "name": "Karacabey",
+        "population": 84241
+      },
+      {
+        "name": "Keles",
+        "population": 11246
+      },
+      {
+        "name": "Mudanya",
+        "population": 105308
+      },
+      {
+        "name": "Mustafakemalpaşa",
+        "population": 101407
+      },
+      {
+        "name": "Nilüfer",
+        "population": 518382
+      },
+      {
+        "name": "Orhaneli",
+        "population": 18786
+      },
+      {
+        "name": "Orhangazi",
+        "population": 80216
+      },
+      {
+        "name": "Osmangazi",
+        "population": 884451
+      },
+      {
+        "name": "Yenişehir",
+        "population": 54485
+      },
+      {
+        "name": "Yıldırım",
+        "population": 653307
+      }
+    ]
   },
   {
     "id": 17,
@@ -880,7 +1089,56 @@
       "en": "Marmara",
       "tr": "Marmara"
     },
-    "districts": []
+    "districts": [
+      {
+        "name": "Ayvacık",
+        "population": 34103
+      },
+      {
+        "name": "Bayramiç",
+        "population": 29136
+      },
+      {
+        "name": "Biga",
+        "population": 91537
+      },
+      {
+        "name": "Bozcaada",
+        "population": 3098
+      },
+      {
+        "name": "Çan",
+        "population": 48023
+      },
+      {
+        "name": "Eceabat",
+        "population": 8769
+      },
+      {
+        "name": "Ezine",
+        "population": 32374
+      },
+      {
+        "name": "Gelibolu",
+        "population": 44598
+      },
+      {
+        "name": "Gökçeada",
+        "population": 10377
+      },
+      {
+        "name": "Lapseki",
+        "population": 28742
+      },
+      {
+        "name": "Merkez",
+        "population": 195439
+      },
+      {
+        "name": "Yenice",
+        "population": 31080
+      }
+    ]
   },
   {
     "id": 18,
@@ -893,7 +1151,56 @@
       "en": "Marmara",
       "tr": "Marmara"
     },
-    "districts": []
+    "districts": [
+      {
+        "name": "Atkaracalar",
+        "population": 4968
+      },
+      {
+        "name": "Bayramören",
+        "population": 2433
+      },
+      {
+        "name": "Çerkeş",
+        "population": 16746
+      },
+      {
+        "name": "Eldivan",
+        "population": 5977
+      },
+      {
+        "name": "Ilgaz",
+        "population": 13700
+      },
+      {
+        "name": "Kızılırmak",
+        "population": 7122
+      },
+      {
+        "name": "Korgun",
+        "population": 4569
+      },
+      {
+        "name": "Kurşunlu",
+        "population": 8463
+      },
+      {
+        "name": "Merkez",
+        "population": 100027
+      },
+      {
+        "name": "Orta",
+        "population": 13207
+      },
+      {
+        "name": "Şabanözü",
+        "population": 11657
+      },
+      {
+        "name": "Yapraklı",
+        "population": 7646
+      }
+    ]
   },
   {
     "id": 19,
@@ -906,7 +1213,64 @@
       "en": "Black Sea",
       "tr": "Karadeniz"
     },
-    "districts": []
+    "districts": [
+      {
+        "name": "Alaca",
+        "population": 30592
+      },
+      {
+        "name": "Bayat",
+        "population": 15199
+      },
+      {
+        "name": "Boğazkale",
+        "population": 3628
+      },
+      {
+        "name": "Dodurga",
+        "population": 5413
+      },
+      {
+        "name": "İskilip",
+        "population": 30022
+      },
+      {
+        "name": "Kargı",
+        "population": 15334
+      },
+      {
+        "name": "Laçin",
+        "population": 4289
+      },
+      {
+        "name": "Mecitözü",
+        "population": 14191
+      },
+      {
+        "name": "Merkez",
+        "population": 298796
+      },
+      {
+        "name": "Oğuzlar",
+        "population": 4894
+      },
+      {
+        "name": "Ortaköy",
+        "population": 6425
+      },
+      {
+        "name": "Osmancık",
+        "population": 43634
+      },
+      {
+        "name": "Sungurlu",
+        "population": 48028
+      },
+      {
+        "name": "Uğurludağ",
+        "population": 5837
+      }
+    ]
   },
   {
     "id": 20,
